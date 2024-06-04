@@ -1,0 +1,55 @@
+﻿  VUPmunugheer.cpp
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(38,5): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(125,36): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(164,36): warning C4244: +=: преобразование "double" в "unsigned __int64", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(144,24): warning C4101: byte8: неиспользованная локальная переменная
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(143,20): warning C4101: byte2: неиспользованная локальная переменная
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(145,18): warning C4101: byte4: неиспользованная локальная переменная
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(183,24): warning C4101: byte8: неиспользованная локальная переменная
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(182,20): warning C4101: byte2: неиспользованная локальная переменная
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(185,19): warning C4101: byte1: неиспользованная локальная переменная
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(184,18): warning C4101: byte4: неиспользованная локальная переменная
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(218,46): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(218,72): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(218,72): warning C4309: инициализация: усечение константного значения
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(218,92): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(218,92): warning C4309: инициализация: усечение константного значения
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(218,96): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(218,96): warning C4309: инициализация: усечение константного значения
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(218,100): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(218,100): warning C4309: инициализация: усечение константного значения
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(218,104): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(218,104): warning C4309: инициализация: усечение константного значения
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(327,24): warning C4244: =: преобразование "unsigned __int64" в "unsigned short", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(371,5): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(408,48): warning C4244: +=: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(415,63): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(417,30): warning C4244: =: преобразование "unsigned short" в "unsigned char", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(419,48): warning C4244: =: преобразование "unsigned __int64" в "unsigned char", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(420,51): warning C4244: =: преобразование "unsigned __int64" в "unsigned char", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(421,40): warning C4244: =: преобразование "unsigned __int64" в "unsigned char", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(462,101): warning C4244: аргумент: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(462,83): warning C4244: аргумент: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(463,32): warning C4244: return: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(479,36): warning C4244: =: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(486,36): warning C4244: =: преобразование "unsigned __int64" в "unsigned short", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(493,36): warning C4244: =: преобразование "unsigned __int64" в "unsigned char", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(498,65): warning C4244: =: преобразование "unsigned __int64" в "short", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(537,105): warning C4244: аргумент: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(537,87): warning C4244: аргумент: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(538,36): warning C4244: return: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(542,105): warning C4244: аргумент: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(542,87): warning C4244: аргумент: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(543,36): warning C4244: return: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(551,16): warning C4244: return: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(370,11): warning C4101: i2: неиспользованная локальная переменная
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(579,35): warning C4244: +=: преобразование "double" в "unsigned __int64", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(597,36): warning C4244: =: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(603,36): warning C4244: =: преобразование "unsigned __int64" в "unsigned short", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(609,36): warning C4244: =: преобразование "unsigned __int64" в "unsigned char", возможна потеря данных
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(636,24): warning C4101: byte8: неиспользованная локальная переменная
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(635,20): warning C4101: byte2: неиспользованная локальная переменная
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(638,19): warning C4101: byte1: неиспользованная локальная переменная
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(637,27): warning C4101: i: неиспользованная локальная переменная
+C:\Users\vasen\source\repos\VUPmunugheer\VUPmunugheer\VUPmunugheer.cpp(805,27): warning C4101: choised: неиспользованная локальная переменная
+  VUPmunugheer.vcxproj -> C:\Users\vasen\source\repos\VUPmunugheer\x64\Debug\VUPmunugheer.exe
