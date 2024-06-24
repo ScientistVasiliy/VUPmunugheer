@@ -368,8 +368,15 @@ void header_writing(short start_info_point, short info_point, unsigned int start
 unsigned int file_insert(string path, unsigned short start_file=0, short info_point=0, unsigned long long file_point=0, unsigned int start_place=0, unsigned short previous_file = 0, unsigned int previous_place = 0) {
     string file_name="";
     int i,i2;
-    for (i = path.length()-1; path[i] != '/' and path[i] != '\\'; i--) {}
-    for (i++; i != path.length(); i++) { file_name += path[i]; }
+    for (i = path.length()-1; path[i] != '/' and path[i] != '\\' and i>2; i--) {}
+    for (i++; i != path.length(); i++) {
+        if (path[i] < 0) {
+            file_name += '#';
+        }
+        else {
+            file_name += path[i];
+        }
+    }
     /*for (i = 0; i != folder_view(0, 5); i++) {
         if (get_file_name(filelist[i][0], filelist[i][1]) == file_name) {
             while (true) {
